@@ -1,12 +1,5 @@
 ### Setup Instructions
 
-Clone the repo via CLI:
-
-```sh
-git clone https://github.com/raj-1106/PINfts.git 
-cd my-app
-```
-
 Install the required packages:
 
 ```sh
