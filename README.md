@@ -12,19 +12,19 @@
 - First step is to connect your wallet and after connecting your wallet.
   <br>
     <p align="center">
-      <img src="Images/Wallet Connect.png" height=50% width=50%>
+      <img src="images/Wallet.jpg" height=50% width=50%>
     </p>
   <br>
 - Then in the form user have to submit whatever document they want to submit.
   <br>
     <p align="center">
-      <img src="Images/Document.png" height=50% width=50%>
+      <img src="images/Document.jpg" height=50% width=50%>
     </p>
   <br>
 - Then click on submit button to Submit document.
   <br>
     <p align="center">
-      <img src="Images/Mint NFT.png" height=50% width=50%>
+      <img src="images/Upload.jpg" height=50% width=50%>
     </p>
   <be>
 - The document can be deleted using delete button too.
